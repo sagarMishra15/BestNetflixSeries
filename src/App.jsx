@@ -9,7 +9,8 @@ import { Header, Footer } from "./components/NetflixSeries";
 import DynamicNetflixSeries from "./components/DynamicNetflixSeries";
 import { Profile } from "./components/Profile";
 
-import "./components/Netflix.css";
+// import "./components/Netflix.css";
+// import "./components/Netflix.module.css";
 
 export const App = () => {
   //--------COMPONENTS EXAMPLE---------->
